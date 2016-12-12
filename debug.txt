@@ -1,0 +1,24 @@
+SplitInSegments():
+fSecondsPerSegment = 1.000000
+SampleRate = 44100
+numFramesPerSegment = 44100
+totalFrames = 34428
+(numFramesPerSegment>totalFrames || fSecondsPerSegment==0.0)==1, warning ...
+SplitInSegments():
+fSecondsPerSegment = 1.000000
+SampleRate = 44100
+numFramesPerSegment = 44100
+totalFrames = 34428
+(numFramesPerSegment>totalFrames || fSecondsPerSegment==0.0)==1, warning ...
+SplitInSegments():
+fSecondsPerSegment = 1.000000
+SampleRate = 44100
+numFramesPerSegment = 44100
+totalFrames = 34428
+(numFramesPerSegment>totalFrames || fSecondsPerSegment==0.0)==1, warning ...
+SplitInSegments():
+fSecondsPerSegment = 1.000000
+SampleRate = 44100
+numFramesPerSegment = 44100
+totalFrames = 34428
+(numFramesPerSegment>totalFrames || fSecondsPerSegment==0.0)==1, warning ...
